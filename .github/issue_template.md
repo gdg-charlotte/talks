@@ -1,4 +1,4 @@
-*Fill out one the sections below.  Please delete these instructions as well as the section you did not fill out before submitting.*
+*Fill out one the sections below.  Prefix the title of the issue with either `Proposal:` or `Request:`. Please delete these instructions as well as the section you did not fill out before submitting.*
 
 **Talk Proposal**
 - [] Title
