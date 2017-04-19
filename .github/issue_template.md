@@ -3,10 +3,10 @@
 **Talk Proposal**
 - [] Title
 - [] Short description
-- [] Level of expertise required [Beginner/Intermediate/Advanved]
+- [] Level of expertise required [Beginner/Intermediate/Advanced]
 
 --------------
 **Talk Request**
 - [] Topic
 - [] Describe what you would like to learn from the talk
-- [] Desired target expertise [Beginner/Intermediate/Advanved]
+- [] Desired target expertise [Beginner/Intermediate/Advanced]
