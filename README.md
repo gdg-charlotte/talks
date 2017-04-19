@@ -1,4 +1,4 @@
-GDG Charlotte
+[GDG Charlotte](https://www.meetup.com/gdg-charlotte/)
 =============
 
 ## 2017
