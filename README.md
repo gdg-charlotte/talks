@@ -4,6 +4,8 @@
 ## 2018
 
 * IO Extended
+	* **What's new in Angular** - [Jocelyn Keung](https://github.com/jhkeung)
+		* [Slides](https://docs.google.com/presentation/d/1G8nRuc53nOKjsOvoStv18Revh0BeUWPgYU3iP0DDmQk/edit?usp=sharing)
 	* **Android Jetpack and Arch Components** - [Trey Robinson](https://github.com/rdrobinson3)
 		* [Slides](https://docs.google.com/presentation/d/1ODgW4BtHe2jBeAjg62mVKuK0gQhCQgsaENXVeoUYgYA/edit?usp=sharing)
 	* **Build great Material Design products across platforms (with Flutter)**  - [Steve Novack](https://github.com/stevenovack)
