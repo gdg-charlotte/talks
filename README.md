@@ -2,6 +2,8 @@
 =============
 
 ## 2018
+* Building Actions with Google Assistant
+	* [**Slides**](https://docs.google.com/presentation/d/1n0qvBrkAfNYnEA7nEwvYL_aREEmlu66vACK30Sqe63A/edit?usp=sharing)
 
 * IO Extended
 	* **What's new in Angular** - [Jocelyn Keung](https://github.com/jhkeung)
